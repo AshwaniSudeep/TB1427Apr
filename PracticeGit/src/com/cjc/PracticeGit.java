@@ -6,6 +6,8 @@ public class PracticeGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Practice Git");
+		System.out.println("Heloooo Practice Git");
+		System.out.println("Good Practice Git");
 
 	}
 
